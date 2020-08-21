@@ -8,8 +8,8 @@ Loves web apps
 
 Loves:
 
--1
--2
--3
+- 1
+- 2
+- 3
 
 
